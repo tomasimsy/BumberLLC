@@ -3,7 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tomasimysy.github.io/BumbreLLC",
+  
+  "homepage": "https://tomasimsy.github.io/BumberLLC",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
